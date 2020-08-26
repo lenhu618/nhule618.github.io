@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+padding:0px;
+margin:0px;
+}
+ul{
+display:inline;
+list-style-image: url("fa fa-check-square")
+}
